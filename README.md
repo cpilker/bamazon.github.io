@@ -16,7 +16,7 @@
         * Program asks you to type in the # of the product you would like to purchase
 
 **INITIAL QUESTION**
-![first image](Assets\initial_question.jpg)
+![first image](bamazon.github.io/Assets/initial_question.jpg)
 
    *  After selection, program prompts you to pick a quantity. 
         *  **If you select more than one, the program will automatically calculate the total cost**. 
@@ -24,9 +24,9 @@
         *  **If you select more than available, the program returns that you have requested too many and you should submit a request later.**
 
 **SELECT A QUANTITY**
-![second image](assets/order_quantity.jpg)
+![second image](bamazon.github.io/Assets/order_quantity.jpg)
 
 **ORDERED TOO MANY**
-![too many](assets/OverStock.PNG)
+![too many](bamazon.github.io/Assets/OverStock.PNG)
 
 
