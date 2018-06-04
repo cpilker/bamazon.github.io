@@ -15,11 +15,13 @@
             * This will diplay available products (10), pulled from MySQL
         * Program asks you to type in the # of the product you would like to purchase
 
-**INITIAL QUESTION**![first image](Assets\initial_question.jpg)
-        *  After selection, program prompts you to pick a quantity. 
-            *  **If you select more than one, the program will automatically calculate the total cost**. 
-            *  **If you select one, it will read the price of the single product.** 
-            *  **If you select more than available, the program returns that you have requested too many and you should submit a request later.**
+**INITIAL QUESTION**
+![first image](Assets\initial_question.jpg)
+
+   *  After selection, program prompts you to pick a quantity. 
+        *  **If you select more than one, the program will automatically calculate the total cost**. 
+        *  **If you select one, it will read the price of the single product.** 
+        *  **If you select more than available, the program returns that you have requested too many and you should submit a request later.**
 
 **SELECT A QUANTITY**
 ![second image](assets/order_quantity.jpg)
