@@ -16,7 +16,7 @@
         * Program asks you to type in the # of the product you would like to purchase
 
 **INITIAL QUESTION**
-![first image](https://github.com/cpilker/bamazon.github.io/Assets/initial_question.jpg)
+![first image](/Assets/initial_question.jpg)
 
    *  After selection, program prompts you to pick a quantity. 
         *  **If you select more than one, the program will automatically calculate the total cost**. 
