@@ -24,9 +24,9 @@
         *  **If you select more than available, the program returns that you have requested too many and you should submit a request later.**
 
 **SELECT A QUANTITY**
-![second image](https://github.com/cpilker/bamazon.github.io/Assets/order_quantity.jpg)
+![second image](/Assets/order_quantity.jpg)
 
 **ORDERED TOO MANY**
-![too many](https://github.com/cpilker/bamazon.github.io/Assets/OverStock.PNG)
+![too many](/Assets/OverStock.PNG)
 
 
